@@ -24,3 +24,5 @@ def printHello()
 | Ewa | 6 |
 | Kałuża | -0 |
 | Tomek | -3 |
+## Zdjecie
+![zdjecie psa](/animals/dog.jpg)
