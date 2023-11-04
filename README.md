@@ -26,5 +26,5 @@ def printHello()
 | Tomek | -3 |
 ## Zdjecie psa
 ![zdjecie psa](/animals/dog.jpg)
-## Zdjecie
-![](/animals/zebra.jpg)
+## Zdjecie zebry w zoo
+![zebra w zoo](/animals/zebra.jpg)
